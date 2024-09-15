@@ -6,11 +6,14 @@
 
 <h3 align="justify" style="margin: 32px 4px 8px; font-size: 24px;">
 🔭 I’m currently building enterprise solutions using Java 17, Spring Boot 3, ReactJS, and Apache Kafka. These solutions are designed to be scalable, high-performing, and highly available with minimal downtime. I lead the development of features that enhance system functionality, prioritizing efficiency and delivering business value. I enjoy collaborating with cross-functional teams to ensure timely project delivery while aligning with customer and business goals.
-<br/>
+</h3>
+<h3 align="justify" style="margin: 32px 4px 8px; font-size: 24px;">
 🌱 I’m Passionate About continuous learning, mentoring teams, and building high-performance applications.
-<br/>
+</h3>
+<h3 align="justify" style="margin: 32px 4px 8px; font-size: 24px;">
 💬 Ask me about Java, Spring Boot, Kafka, Elastic search! I will be happy to share my experience.
-<br/>
+</h3>
+<h3 align="justify" style="margin: 32px 4px 8px; font-size: 24px;">
 ⚡ When I’m not coding or working, I love to unwind with gaming, exploring fantasy worlds, or watching anime, always seeking the next immersive experience.
 </h3>
 
